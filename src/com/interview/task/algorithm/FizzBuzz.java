@@ -1,4 +1,4 @@
-package com.elsevier.algorithm;
+package com.interview.task.algorithm;
 
 import java.util.stream.IntStream;
 
